@@ -359,7 +359,17 @@ mysql:
     settings:
         version: '5.5'
         root_password: root
-        override_options: {  }
+        override_options: 
+            mysqld:
+                key_buffer: '128M'
+                thread_cache_size: '3'
+                tmp_table_size: '128M'
+                max_heap_table_size: '128M'
+                table_definition_cache: '800'
+                table_open_cache: '800'
+                innodb_buffer_pool_size: '512M'
+            mysqldump:
+                max_allowed_packet: '128M'
     adminer: 0
     users:
         mysqlnu_izzlqxflwpxw:
