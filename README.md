@@ -8,3 +8,7 @@ This configuration is currently working with
 on windows 8.1
 
 Clone, vagrant up and have a coffee
+
+To change XDEBUG remote IP address for debugging:
+using the GUEST MACHINE run the script /var/www/scripts/xdebug_remote_host.sh and enter the HOST IP address.
+
