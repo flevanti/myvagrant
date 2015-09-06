@@ -2,10 +2,12 @@
 my vagrant machine created with puphpet
 This is my VM used to develop PHP MYSQL apps
 
-This configuration is currently working with
-- Vagrant version 1.7.4
-- VirtualBox 4.3.30 (r101610) 
-on windows 8.1
+This configuration is currently working on Windows 8.1 with
+- Vagrant version 1.7.4  
+http://www.vagrantup.com/downloads.html
+- VirtualBox 4.3.30 (r101610)  
+https://www.virtualbox.org/wiki/Downloads     
+https://www.virtualbox.org/wiki/Download_Old_Builds_4_3
 
 Clone, vagrant up and have a coffee
 
