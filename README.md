@@ -19,6 +19,14 @@ https://www.virtualbox.org/wiki/Downloads
 
 Clone, vagrant up and have a coffee
 
+MYSQL connection parameters over SSH:
+SSH Host       : IP address assigned to the Virtual Machine
+SSH User       : vagrant
+SSH key file   : [VAGRANT INSTALLATION FOLDER]\puphpet\files\dot\ssh\id_rsa
+Mysql Host     : 127.0.0.1
+Mysql User     : root
+Mysql Password : root
+
 To change XDEBUG remote IP address for debugging:
 using the GUEST MACHINE run the script /var/www/scripts/xdebug_remote_host.sh and enter the HOST IP address.
 
