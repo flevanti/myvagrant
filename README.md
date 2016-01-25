@@ -19,7 +19,8 @@ https://www.virtualbox.org/wiki/Downloads
 
 Clone, vagrant up and have a coffee
 
-MYSQL connection parameters over SSH:SSH Host       : IP address assigned to the Virtual Machine
+MYSQL connection parameters over SSH:
+SSH Host       : IP address assigned to the Virtual Machine
 SSH User       : vagrant
 SSH key file   : [VAGRANT INSTALLATION FOLDER]\puphpet\files\dot\ssh\id_rsa
 Mysql Host     : 127.0.0.1
