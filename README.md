@@ -16,7 +16,7 @@ This configuration in currently working on Windows 10 (Version 1511 OS Build 105
 http://www.vagrantup.com/downloads.html
 
 - VirtualBox 5.0.14 (r105127) + Extension Pack
-https://www.virtualbox.org/wiki/Downloads     
+https://www.virtualbox.org/wiki/Downloads
 (If not the current version check here: https://www.virtualbox.org/wiki/Download_Old_Builds)
 
 Clone, vagrant up and have a coffee
